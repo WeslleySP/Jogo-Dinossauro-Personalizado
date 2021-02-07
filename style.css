@@ -1,0 +1,47 @@
+body {
+    background: #fafafa;
+}
+
+.dino{
+    width: 69px;
+    height: 100px;
+    background-image: url(zoro.png);
+    position:absolute;
+    bottom: 0;
+}
+
+.cactus{
+    position:absolute;
+    width: 69px;
+    height: 100px;
+    bottom: 0;
+    background-image: url(kaku.png);
+}
+
+.game-over{
+    text-align: center;
+    color: #6666;
+    margin-top: 50px;
+    font-family: arial;
+}
+
+@keyframes slideright {
+    from {
+        background-position: 70000%;
+    }
+    to{
+        background-position: 0;
+    }
+}
+
+.background{
+    position:absolute;
+    bottom: 0;
+    background-image: url(Water_7.png);
+    background-repeat: repeat-x;
+    animation: slideright 200s infinite linear;
+    width: 100%;
+    height: 600px;
+
+}
+
