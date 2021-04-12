@@ -1,6 +1,6 @@
 <h1>DIO - Recriando jogo do dinossauro - Personalizado.</h1>
 
-Projeto desenvolvido com através da plataforma da Digital Innovation One utilizando as tecnologias HTML, CSS e Javascript. 
+Projeto desenvolvido através da plataforma da Digital Innovation One utilizando as tecnologias HTML, CSS e Javascript. 
 
 Jogo consiste em desviar dos obstáculos utilizando a tecla "espaço", que faz com que o personagem da obra One Piece salte sobre os obstáculos. 
 
